@@ -1,4 +1,6 @@
 package solaire;
-public class Panneau {
+public class Batterie {
+    double intensite;
+    double tension;
     
 }
