@@ -1,4 +1,4 @@
 package classe;
-public class Eleve {
+public class Eleve extends Exeptions {
     
 }
