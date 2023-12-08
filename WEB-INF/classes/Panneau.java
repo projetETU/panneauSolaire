@@ -7,4 +7,5 @@ public class Panneau {
     public void setPuissance(int puissance){
         this.puissance = puissance;
     }
+    
 }

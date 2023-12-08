@@ -23,4 +23,7 @@ public class Batterie {
         int puissance =  getIntensite()*getTension();
         this.puissance = puissance*50/100 ;
     }
+    public double consomationBatterie(){
+        return 0.2;
+    }
 }
