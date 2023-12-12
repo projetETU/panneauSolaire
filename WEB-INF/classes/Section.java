@@ -1,7 +1,14 @@
 package classe;
 public class Section {
     int section;
+    int nbEleveSection;
     String sectionName;
+    public int getnbEleveSection() {
+        return nbEleveSection;
+    }
+    public void setnbEleveSection(int nbEleveSection) {
+        this.nbEleveSection = nbEleveSection;
+    }
     public int getSection() {
         return section;
     }
